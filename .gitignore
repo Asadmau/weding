@@ -1,0 +1,22 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Database and persistent data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Uploaded files
+uploads/
+
+# Runtime files
+*.log
+*.pid

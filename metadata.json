@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard & Atelier — Wedding Invitation System",
+  "description": "Fullstack online wedding invitation platform with multiple editorial templates, personalized guest links, RSVP management, wish moderation, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
